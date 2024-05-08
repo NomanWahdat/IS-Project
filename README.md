@@ -43,4 +43,10 @@ The Secure Data Sanitization Tool is a Python-based GUI application built using 
 5. View statistics on the total number of files and folders sanitized.
 
 
+Memere: 
+Noman 2021-CS-162.
+Khoshal 2021-CS-162.
+SAMEE UL REHMAN
+
+
 
